@@ -1,0 +1,41 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results skipped="0" failed="0" total="5" passed="5">
+  <reporter-output>
+  </reporter-output>
+  <suite name="Default suite" duration-ms="38153" started-at="2016-11-23T09:40:53Z" finished-at="2016-11-23T09:41:32Z">
+    <groups>
+    </groups>
+    <test name="Default test" duration-ms="38153" started-at="2016-11-23T09:40:53Z" finished-at="2016-11-23T09:41:32Z">
+      <class name="Assign.Amazon_Testing.TestExecution">
+        <test-method status="PASS" signature="verifysetup()[pri:0, instance:Assign.Amazon_Testing.TestExecution@7e5409]" name="verifysetup" is-config="true" duration-ms="10834" started-at="2016-11-23T15:10:53Z" finished-at="2016-11-23T15:11:04Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- verifysetup -->
+        <test-method status="PASS" signature="verifyHomePage()[pri:0, instance:Assign.Amazon_Testing.TestExecution@7e5409]" name="verifyHomePage" duration-ms="6082" started-at="2016-11-23T15:11:04Z" finished-at="2016-11-23T15:11:10Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- verifyHomePage -->
+        <test-method status="PASS" signature="verifyProductDeatilsPage()[pri:1, instance:Assign.Amazon_Testing.TestExecution@7e5409]" name="verifyProductDeatilsPage" duration-ms="3296" started-at="2016-11-23T15:11:10Z" finished-at="2016-11-23T15:11:14Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- verifyProductDeatilsPage -->
+        <test-method status="PASS" signature="verifyAddtocart()[pri:2, instance:Assign.Amazon_Testing.TestExecution@7e5409]" name="verifyAddtocart" duration-ms="7649" started-at="2016-11-23T15:11:14Z" finished-at="2016-11-23T15:11:21Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- verifyAddtocart -->
+        <test-method status="PASS" signature="verifyRegistration()[pri:3, instance:Assign.Amazon_Testing.TestExecution@7e5409]" name="verifyRegistration" duration-ms="4681" started-at="2016-11-23T15:11:21Z" finished-at="2016-11-23T15:11:26Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- verifyRegistration -->
+        <test-method status="PASS" signature="verifyDeliveryPage()[pri:4, instance:Assign.Amazon_Testing.TestExecution@7e5409]" name="verifyDeliveryPage" duration-ms="3318" started-at="2016-11-23T15:11:26Z" finished-at="2016-11-23T15:11:29Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- verifyDeliveryPage -->
+        <test-method status="PASS" signature="verifycloseapp()[pri:0, instance:Assign.Amazon_Testing.TestExecution@7e5409]" name="verifycloseapp" is-config="true" duration-ms="2266" started-at="2016-11-23T15:11:29Z" finished-at="2016-11-23T15:11:32Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- verifycloseapp -->
+      </class> <!-- Assign.Amazon_Testing.TestExecution -->
+    </test> <!-- Default test -->
+  </suite> <!-- Default suite -->
+</testng-results>
